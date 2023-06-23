@@ -8,7 +8,7 @@ To get started with Android-ng, you'll need to get familiar with [Source Control
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 ```
-gh repo clone -u https://github.com/android-chat.de/android.git -u lineage-20.0 android-chat.de
+gh repo clone -u https://github.com/android-ng/android.git -u lineage-20.0 android-chat.de
 ```
 
 Please see the [android-ng Wiki](https://wiki.lineageos.org/) for building instructions, by device.
